@@ -1,6 +1,6 @@
 <h1 align="center">🖐 Deep Learning Engineer 🖐</h1> 
 <br />
-<h1 align="center"> Archievements </h1>
+<h1 align="center"> Achievements </h1>
 <p align="center">
   <a href="https://github.com/PassionPlus777?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=PassionPlus777&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@PassionPlus777's trophy stats"/></a>
 </p>
